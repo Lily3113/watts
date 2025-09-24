@@ -502,7 +502,7 @@ body {
 }
 
 .login-highlight {
-  color: #fff;
+  color: #fffff;
   text-shadow: 0 3px 20px #f2a365;
 }
 
@@ -516,7 +516,7 @@ body {
 .login-userid-text {
   font-size: 0.9rem;
   font-weight: 600;
-  color: #fff;
+  color: #fffff;
   margin-bottom: 1rem;
   user-select: text;
 }
